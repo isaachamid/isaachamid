@@ -23,6 +23,51 @@ Here are some ideas to get you started:
 
 ### Frameworks
 
+```mermaid
+mindmap
+  root((Skills))
+    Backend
+      PHP
+        Yii
+        Laravel
+        Prestashop
+      NodeJS
+        Express
+        NestJS
+      Golang
+        Gin
+      Python
+        FastAPI
+    Database
+      SQL
+        SQL server
+        Mysql
+        Postgres
+      NoSQL
+        Redis
+        Mongo
+        Couchbase
+    Frontend
+      Jquery
+      Angular
+      NextJS
+      TailwindCss
+      Telegram Mini Web App
+    Tools
+      Git
+      Ubuntu
+      Docker
+      Nginx
+      RabbitMQ
+    Cloud
+      AWS
+        API Gateway
+        DynamoDB
+        Lambda
+        SES
+        SQS
+```
+
 - PHP (Yii, Laravel)
 - Go (Gin)
 - NestJs (NodeJs + TypeScript)
